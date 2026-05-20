@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gedi2"]
+	path = gedi2
+	url = https://github.com/csglab/gedi2
 [submodule "splikit"]
 	path = splikit
 	url = https://github.com/csglab/splikit
